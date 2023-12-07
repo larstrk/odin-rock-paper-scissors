@@ -8,7 +8,7 @@ This project was created as part of [The Odin Project](https://www.theodinprojec
 
 ## How to Play
 
-1. Open the `index.html` file in your web browser.
+1. Open ..
 2. Click the "Play Game" button to start the game.
 3. Enter your choice (rock, paper, or scissor) when prompted.
 4. The game will run for five rounds, and the results of each round will be displayed.
@@ -22,7 +22,3 @@ This project was created as part of [The Odin Project](https://www.theodinprojec
 ## Contributing
 
 If you have suggestions or find issues with the game, feel free to contribute by opening an issue or submitting a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
