@@ -8,7 +8,7 @@ This project was created as part of [The Odin Project](https://www.theodinprojec
 
 ## How to Play
 
-1. Open ..
+1. Open https://larstrk.github.io/odin-rock-paper-scissors/
 2. Click the "Play Game" button to start the game.
 3. Enter your choice (rock, paper, or scissor) when prompted.
 4. The game will run for five rounds, and the results of each round will be displayed.
