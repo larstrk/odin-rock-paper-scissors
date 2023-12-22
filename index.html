@@ -12,18 +12,30 @@
         <h1>Odins's Rock Paper Scissors</h1>
     </header>
 
-    <div>
+    <!-- <div>
         <p>Play 5 games vs the Computer:</p>
-    </div> 
+    </div>  -->
+
+
 
     <div>
-        <button onclick="game()">Play Game</button>
+        <button id="rock">Rock</button>
+        <button id="paper">Paper</button>
+        <button id="scissors">Scissors</button>
         <hr>
     </div>
 
-    <div id="resultContainer">
+    <div>
         <p>Result:</p>
+        <p id="resultContainer"></p>
     </div>
+
+    <div id="scoreContainer">
+        <p>Score: </p>
+        <p><span id="player-score">0</span> : <span id="computer-score">0</span></p>
+    </div>
+
+    
 
     <script src="script.js"></script>
 </body>
